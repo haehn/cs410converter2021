@@ -22,6 +22,9 @@ class SingletonConverter
 int main()
 {
 
+  std::cout << "Welcome to the ultimate Fahrenheit to Celsius converter!" << std::endl;
+
+
   std::vector<float> allTemps;
 
   while(1) {
